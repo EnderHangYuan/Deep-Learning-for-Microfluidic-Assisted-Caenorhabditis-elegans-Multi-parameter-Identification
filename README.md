@@ -11,6 +11,8 @@ Jie Zhang 1,2 †, Shuhe Liu 1 †, Hang Yuan 1 †, Ruiqi Yong 1, Sixuan Duan 1
 
 † Jie Zhang, Shuhe Liu and Hang Yuan contributed equally to this work.
 
+### Note: The dataset used can be found on [Zenodo](https://zenodo.org/record/7714497).
+
 # Training Steps:
 1. Dataset Preparation:
 In this paper, the training is conducted using the VOC format. Prior to training, it is necessary to prepare the dataset by placing the label files in the `Annotation` folder, located within the `VOC2007` folder, which is in turn placed under the `VOCdevkit` folder. Similarly, the image files should be placed in the `JPEGImages` folder, also located within the `VOC2007` folder under the `VOCdevkit` directory.
